@@ -5,3 +5,8 @@ v1.1.0 (2018-12-17)
 - Add in-app favorites menu
 v1.2.0 (2020-06-21)
 - Use new api (api.radio-browser.info)
+v1.3.0 (2021-02-22)
+- Update for Kodi v19
+v1.4.0 (2024-06-16)
+- Update for Kodi v21
+- Code review and restructure
